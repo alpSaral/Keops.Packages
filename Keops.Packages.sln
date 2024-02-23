@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ASP.NET Core", "ASP.NET Core", "{38172C0E-F85D-4715-B0E5-31E5C09B57CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keops.AspNetCore.WebGrid", "AspNetCore\Keops.AspNetCore.WebGrid\Keops.AspNetCore.WebGrid.csproj", "{29A226D7-3796-45EF-ACC6-AF16B28C2C25}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ASP.NET Mvc5", "ASP.NET Mvc5", "{46D965A9-09DE-45F3-BA26-A718AAA67054}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29A226D7-3796-45EF-ACC6-AF16B28C2C25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29A226D7-3796-45EF-ACC6-AF16B28C2C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29A226D7-3796-45EF-ACC6-AF16B28C2C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29A226D7-3796-45EF-ACC6-AF16B28C2C25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{29A226D7-3796-45EF-ACC6-AF16B28C2C25} = {38172C0E-F85D-4715-B0E5-31E5C09B57CC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F046BF55-BF71-4342-9155-F56B47EF6292}
+	EndGlobalSection
+EndGlobal

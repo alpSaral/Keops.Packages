@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+		<Title>WebGrid Helper Library for ASP.NET Core</Title>
+		
+		<Authors>alpSaral</Authors>
+		
+		<Company>Keops Proje</Company>
+		
+		<Description>This package has been transformed from its original code to directly carry the .NET Framework MVC WebGrid feature to ASP.NET Core projects.</Description>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <None Remove="_WebGridRenderer.cshtml" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<FrameworkReference Include="Microsoft.AspNetCore.App" />
+	</ItemGroup>
+
+</Project>
