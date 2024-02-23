@@ -1,4 +1,4 @@
-﻿namespace EsGiris.Admin.WebGrid
+﻿namespace Keops.AspNetCore.WebGrid
 {
     public class CommonResources
     {

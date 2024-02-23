@@ -1,4 +1,4 @@
-﻿using EsGiris.Admin.WebGrid.Model;
+﻿using Keops.AspNetCore.WebGrid.Model;
 using Microsoft.CSharp.RuntimeBinder;
 using System;
 using System.Collections.Generic;
@@ -9,7 +9,7 @@ using System.Linq.Expressions;
 using System.Reflection;
 using Binder = Microsoft.CSharp.RuntimeBinder.Binder;
 
-namespace EsGiris.Admin.WebGrid
+namespace Keops.AspNetCore.WebGrid
 {
     /// <summary>
     /// Default data source that sorts results if a sort column is specified.

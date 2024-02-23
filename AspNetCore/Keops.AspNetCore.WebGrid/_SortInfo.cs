@@ -1,7 +1,7 @@
-﻿using EsGiris.Admin.WebGrid.Model;
+﻿using Keops.AspNetCore.WebGrid.Model;
 using System;
 
-namespace EsGiris.Admin.WebGrid
+namespace Keops.AspNetCore.WebGrid
 {
     internal sealed class SortInfo : IEquatable<SortInfo>
     {

@@ -8,7 +8,7 @@ using System.Globalization;
 using System.Linq;
 using System.Reflection;
 
-namespace EsGiris.Admin.WebGrid
+namespace Keops.AspNetCore.WebGrid
 {
     public class WebGridRow : DynamicObject, IEnumerable<object>
     {

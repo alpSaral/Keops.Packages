@@ -6,7 +6,7 @@ using System.Dynamic;
 using System.Linq.Expressions;
 using System.Runtime.CompilerServices;
 
-namespace EsGiris.Admin.WebGrid
+namespace Keops.AspNetCore.WebGrid
 {
     /// <summary>
     /// Helper to evaluate different method on dynamic objects

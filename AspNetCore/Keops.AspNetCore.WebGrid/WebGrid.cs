@@ -1,4 +1,4 @@
-﻿using EsGiris.Admin.WebGrid.Model;
+﻿using Keops.AspNetCore.WebGrid.Model;
 using Microsoft.AspNetCore.Html;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc.Razor;
@@ -13,7 +13,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Web;
 
-namespace EsGiris.Admin.WebGrid
+namespace Keops.AspNetCore.WebGrid
 {
     public class WebGrid
     {

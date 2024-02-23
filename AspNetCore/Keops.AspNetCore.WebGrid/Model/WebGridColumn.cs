@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace EsGiris.Admin.WebGrid.Model
+namespace Keops.AspNetCore.WebGrid.Model
 {
     public class WebGridColumn
     {

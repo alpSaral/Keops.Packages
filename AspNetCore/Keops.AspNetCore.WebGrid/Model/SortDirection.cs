@@ -1,4 +1,4 @@
-﻿namespace EsGiris.Admin.WebGrid.Model
+﻿namespace Keops.AspNetCore.WebGrid.Model
 {
     public enum SortDirection
     {

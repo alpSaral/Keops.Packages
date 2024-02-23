@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-using EsGiris.Admin.WebGrid.Model;
+using Keops.AspNetCore.WebGrid.Model;
 using Microsoft.AspNetCore.Html;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc.Razor;
@@ -24,7 +24,7 @@ using System.Text.Encodings.Web;
 using System.Threading.Tasks;
 using System.Web;
 
-namespace EsGiris.Admin.WebGrid
+namespace Keops.AspNetCore.WebGrid
 {
     internal class WebGridRenderer
     {

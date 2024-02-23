@@ -4,7 +4,7 @@ using System.ComponentModel;
 using System.Globalization;
 using System.IO;
 
-namespace EsGiris.Admin.WebGrid
+namespace Keops.AspNetCore.WebGrid
 {
     public static class StringExtensions
     {

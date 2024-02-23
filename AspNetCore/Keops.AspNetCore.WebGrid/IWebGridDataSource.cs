@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace EsGiris.Admin.WebGrid
+namespace Keops.AspNetCore.WebGrid
 {
     internal interface IWebGridDataSource
     {
