@@ -3,32 +3,27 @@
 	<PropertyGroup>
 		<TargetFramework>net8.0</TargetFramework>
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-		<Title>WebGrid Helper Library for ASP.NET Core</Title>
-		
+		<Title>jQuery DataTables Helper Library for ASP.NET Core</Title>
+
 		<Authors>alpSaral</Authors>
-		
+
 		<Company>Keops Proje</Company>
-		
-		<Description>This package has been transformed from its original code to directly carry the .NET Framework MVC WebGrid feature to ASP.NET Core projects.</Description>
-		
+
+		<Description>This package has been transformed from its original code to directly carry the ALMMa/datatables.aspnet feature to ASP.NET Core projects.</Description>
+
 		<PackageReadmeFile>README.md</PackageReadmeFile>
-		
+
 		<RepositoryUrl>https://github.com/alpSaral/Keops.Packages/</RepositoryUrl>
 	</PropertyGroup>
-
-	<ItemGroup>
-	  <None Remove="_WebGridRenderer.cshtml" />
-	</ItemGroup>
-
+	
 	<ItemGroup>
 		<FrameworkReference Include="Microsoft.AspNetCore.App" />
 	</ItemGroup>
-
+	
 	<ItemGroup>
 	  <None Update="README.md">
-	    <Pack>True</Pack>
 	    <PackagePath>\</PackagePath>
+	    <Pack>True</Pack>
 	  </None>
 	</ItemGroup>
-
 </Project>
